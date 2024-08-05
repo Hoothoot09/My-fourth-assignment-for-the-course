@@ -1,6 +1,5 @@
 .slide {
   display: flex;
-  transform: translate3d(-500px, 0px, 0px);
 }
 .slide li {
   flex-shrink: 0;
