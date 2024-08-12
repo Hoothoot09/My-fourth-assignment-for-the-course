@@ -3,6 +3,7 @@
 
 /* Configuration Slide-Wrapper*/
 @import "/css/wrapper.css";
+@import "/css/data-control.css";
 
 /* Configuration Slide*/
 @import "/css/slide.css";
