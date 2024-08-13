@@ -1,9 +1,13 @@
-/* Configuration default*/
+/* Configuration default */
 @import "/css/geral.css";
 
-/* Configuration Slide-Wrapper*/
+/* Configuration Slide-Wrapper */
 @import "/css/wrapper.css";
 @import "/css/data-control.css";
 
-/* Configuration Slide*/
+/* Configuration Slide */
 @import "/css/slide.css";
+
+/* Custom Control */
+@import "/css/custom-control.css";
+@import "/css/arrow-nav.css";
